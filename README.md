@@ -228,7 +228,8 @@ END
 
 #### Manual Calculations
 
-<img width="864" height="1152" alt="f751a7e0-4063-42a3-b69d-d35aa3f6e3f2" src="https://github.com/user-attachments/assets/75de7e9f-9c37-4f64-827a-6e3346fc10f4" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-04-29 at 1 26 40 PM" src="https://github.com/user-attachments/assets/a4711ead-979e-4b19-b94e-3e511ecc266d" />
+
 
 
 ---
